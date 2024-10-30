@@ -17,7 +17,7 @@
 body {
   justify-content: center;
   align-items: center;
-  min-height: auto;
+  min-height: 170vh;
   background: linear-gradient(#ffd103, #000000);
 }
 
