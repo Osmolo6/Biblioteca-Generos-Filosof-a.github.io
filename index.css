@@ -49,6 +49,7 @@ table {
 
 /* P.Superior Tabla */
 thead {
+  position: fixed;
   background: rgba(255, 191, 54, 0.377);
 }
 /* Titulos-Datos de TABLA */
